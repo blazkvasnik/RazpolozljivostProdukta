@@ -1,0 +1,4 @@
+2023-08-03 23:36:29,842 [1] INFO  ProductAvailabilityApp.Program - This is an info message.
+2023-08-03 23:36:29,849 [1] ERROR ProductAvailabilityApp.Program - This is an error!
+2023-08-03 23:36:29,849 [1] DEBUG ProductAvailabilityApp.Program - This is a debug message that won't get logged!
+2023-08-03 23:40:13,510 [1] INFO  ProductAvailabilityApp.Program - Product 1 : True
